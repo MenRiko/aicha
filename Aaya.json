@@ -1,0 +1,182 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"Aday ur oufigh",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/a/b/f/abf20d38348afcc082e9f789fb8190b7.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+      {
+         "song_name":"Una tret urk ren",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/7/e/a/7ea09a78254e03a0ac32d4242ac0e597.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+      {
+         "song_name":"Ad irham rabe",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/4/a/8/4a8b57022d65907d24211f6bf375d161.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Awyaten",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/9/7/5/97562c3d9fa4fc439fb293165e8017c1.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Tahidoust",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/a/4/a/a4aa291cc3e78594e8e3b9c834c094ea.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"3ib Lahbib Yensa Lahbib",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/e/3/e/e3eaf40b9c3e5aa318f994698c8c4c6a.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Hidousse Parti 1",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/b/1/9/b1996629e6aaf1623df17bf5427b6bb5.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Hidousse Parti 2",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/d/d/7/dd75e8a8bd28232f4dea99aef6f1a60b.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Hidousse Parti 3",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/a/9/6/a962dcb8dd4071261c807f95b382f239.mp3",
+         "image":"https:https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/7/1/d/71d87ca2ebee935e179f2b230c660674.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/4/5/e/45e4651ad49721709727b0820570bfdc.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Track",
+         "artist":"عائشة مايا",
+         "song_link":"https://nadorzik.com//mp3/e/4/f/e4fdd9b97eeba65cf65976f4a555c720.mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Awamad Stit Awamad Swoulnch Aymano",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=50569?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"oussibo Amiden Naytinin Digi Lkhir",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=50308?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Khayf Min Jadarmia",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=50163?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Awa Madisartoud",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=49735?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Lillah ya lghadi",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=49027?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"aw nghani",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45213?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"ababa ya baba",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45214?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Lahcen lakhnifri aicha maya hassania",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45215?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"hawlat",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45216?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Asye Khf Tadawt",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45217?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+        {
+         "song_name":"Haten Bnadam Aygigh",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45218?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+           {
+         "song_name":"Tala Digui Tayri",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45220?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+           {
+         "song_name":"Achno Li 3ajebni Fik",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45223?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+           {
+         "song_name":"Dawini Ya Lkawini",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45225?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+           {
+         "song_name":"Khayfa Khayfa",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45226?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      },
+      {
+         "song_name":"Maando Malou Mayswa Walou",
+         "artist":"عائشة مايا",
+         "song_link":"https://www.nozika.co//down.php?s_id=45227?view=mp3",
+         "image":"https://od.lk/s/NzJfNDMyMzM1MjJf/Aicha%20Maya.png"
+      }
+   ]
+}
